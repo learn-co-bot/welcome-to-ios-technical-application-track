@@ -8,9 +8,7 @@ Arrays
 Looping
 XCode and Playgrounds
 
-If you're a complete beginner or need to brush up on your skills in these and other beginner level topics, the topics following these labs will give you all the information that you need to successfully complete the labs. 
-
-Remember to follow the workflow for solving labs that we covered in the Intro to Learn track. If you experience any product issues (for example, are your lights not working? Are you having trouble opening labs? Are you having trouble submitting labs?) please email support@learn.co. If you feel that there are problems with the actual lesson content, then please submit an issue via Learn.
+If you experience any product issues (for example, are your lights not working? Are you having trouble opening labs? Are you having trouble submitting labs?) please email support@learn.co. If you feel that there are problems with the actual lesson content, then please submit an issue via Learn.
 
 Once you complete this track, you may be contacted for a technical interview with a Flatiron School instructor.
 
