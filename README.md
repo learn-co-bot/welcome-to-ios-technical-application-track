@@ -6,9 +6,9 @@ Thank you for submitting your written application to Flatiron School's iOS Devel
 * Conditional Statements
 * Arrays
 * Looping (iterating over an Array)
-* Xcode / Playground
+* Working in Xcode / Playground
 
-Xcode is at the center of the Apple development experience. In order to create an iOS, tvOS, MacOS or watchOS app, you will need to use Xcode. You can download Xcode [here](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12). As Xcode can only be downloaded from the Mac App Store you are required to be on a Mac.
+Xcode is at the center of the Apple development experience. In order to create an iOS, tvOS, MacOS or watchOS app, you will need to use Xcode. You can download Xcode [here](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12). You're required to be on a mac because Xcode can only be downloaded from the Mac App Store.
 
 Xcode is an IDE (integrated development environment) used for software development like making iPhone apps. You will be solving the upcoming labs in Xcode writing Swift code. No, not *fast* code. Swift is the name of the programming language that you will be using when working within Xcode.
 
