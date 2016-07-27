@@ -19,6 +19,8 @@ Once you complete this track, you may be contacted for a technical interview wit
 
 Good luck and happy coding!
 
+Click the "I'm Done" icon to your right and then proceed to the "Next Lesson."
+
 ![good luck](https://media.giphy.com/media/IUjaKjjPPbGaQ/giphy.gif)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-ios-technical-application-track'>Welcome to iOS Technical Application Track</a> on Learn.co and start learning to code for free.</p>
