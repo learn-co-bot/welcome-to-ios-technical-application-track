@@ -12,11 +12,11 @@ We don't expect you to be an expert, but below are the topics that will be cover
 
 While you don't have to complete every lesson in this track, in order to apply for the iOS program you need to make sure that you've done these following labs: 
 
-**1) Function Fun Lab**
-**2) Fun with Basics Lab**
-**3) Iterating Over Arrays Playgrounds Lab**
-**4) Array Challenge Lab**
-**5) Deli Counter Lab**
+* **1) Function Fun Lab**
+* **2) Fun with Basics Lab**
+* **3) Iterating Over Arrays Playgrounds Lab**
+* **4) Array Challenge Lab**
+* **5) Deli Counter Lab**
 
 
 Xcode is at the center of the Apple development experience. In order to create an iOS, tvOS, MacOS or watchOS app, you will need to use Xcode. You're required to be on a Mac because Xcode can only be downloaded from the Mac App Store.You can download Xcode [here](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12). If you don't have it installed already, we recommend you download it now as it can take up to 30 minutes to get set up. In the next lesson, we'll walk you through all the steps involved in set-up. We'll also walk you through solving a lab. Some of the concepts might be a little confusing but they'll become a lot clearer as you go through the track. 
